@@ -1,5 +1,5 @@
 class Light {
-    private String switchState
+    def switchState
 
     public Light() {
         this.switchState = "OFF"
@@ -11,10 +11,6 @@ class Light {
 
     public off() {
         this.switchState = "OFF"
-    }
-
-    public getSwitchState() {
-        return switchState
     }
 
     public String toString() {
