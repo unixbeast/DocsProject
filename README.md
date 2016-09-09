@@ -17,3 +17,11 @@ Specific topics covered by the documentation should include:
 * Documentation for the public APIs in the `Light` and `MyCoolLight` classes, including parameters and return types
 
 You should also update the `TestApp` file to show example usage that developers can reference and try themselves.
+
+Submission process:
+
+* Create a PR to this repository targeted at the main branch with your docs and example changes.
+
+Other notes:
+
+* The documentation page stub is a Markdown file, but Markdown is not required. You are free to choose the format of your choice, so long as it is text-based and markdown-like (e.g., Asciidoc and reStructuredText or OK too - just be sure to change the file extension).
