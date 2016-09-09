@@ -19,4 +19,15 @@ class MyCoolLight extends Light {
         light.setLevel(level)
     }
 
+    /* Set the color of the light
+     * param: colorMap - a Map of values that define the color
+     *    possible values:
+     *        hue: value between 0-255
+     *        saturation: value between 0-255
+     *        color: A hexidecimal value to set the color to
+     */
+    def setColor(Map colorMap) {
+        light.setColor(colorMap)
+    }
+
 }
