@@ -25,3 +25,4 @@ Submission process:
 Other notes:
 
 * The documentation page stub is a Markdown file, but Markdown is not required. You are free to choose the format of your choice, so long as it is text-based and markdown-like (e.g., Asciidoc and reStructuredText or OK too - just be sure to change the file extension).
+* You are free to use any auto-generated documentation tooling for class-level documentation, if you so choose. If any such tooling is added, it should be possible to build the generated artifacts using Gradle.
