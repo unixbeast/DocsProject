@@ -1,9 +1,5 @@
 class Light {
-    def switchState
-
-    public Light() {
-        this.switchState = "OFF"
-    }
+    def switchState = "OFF"
 
     public on() {
         this.switchState = "ON"
